@@ -44,7 +44,7 @@ nav{
 
 .burger div{
     width:25px;
-    height:2px;
+    height:3px;
     background-color:#ffffff;
     margin:5px;
     transition:all 0.3s ease;
