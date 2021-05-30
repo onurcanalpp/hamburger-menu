@@ -6,6 +6,9 @@
     padding:0px;
     box-sizing:border-box;
 }
+body{
+    font-family: 'Poppins', sans-serif;
+}
 
 nav{
     display:flex;
@@ -13,7 +16,6 @@ nav{
     align-items:center;
     min-height:8vh;
     background-color:cornflowerblue;
-    font-family: 'Poppins', sans-serif;
 }
 .logo{
     color:#ffffff;
